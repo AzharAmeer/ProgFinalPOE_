@@ -1,0 +1,453 @@
+Root
+	000 - General Works
+		020 – library and information in science
+			022 – Administration of the physical plant
+			025 – Library operations
+			026 – Libraries for specific subjects
+			027 – General libraries
+			028 – Reading
+		030 – General Encyclopedias
+			032 – General encyclopedic works in English
+			035 – General encyclopedic works in Italian
+			037 – General encyclopedic works in Slavic languages
+			038 – General encyclopedic works in Scandinavian languages
+			039 – General encyclopedic works in other languages
+		050 – General Periodicals
+			051 – General serials & their indexes American
+			054 – General serials & their indexes In French
+			056 – General serials & their indexes In Spanish
+			058 – General serials & their indexes In Scandinavian languages
+			059 – General serials & their indexes In other languages
+		060 – General organization   
+			061 – General organization & museology In North America
+			063 – General organization & museology In central Europe In Germany
+			064 – General organization & museology In France
+			066 – General organization & museology In Iberian Peninsula
+			067 – General organization & museology In eastern Europe
+	100 – Philosophy
+		110 – Metaphysics
+			111 – Ontology
+			112 – No longer used
+			114 – Space
+			116 – Change 
+			118 – Force
+		130 - psychology, occultism
+			131 – Occult methods for achieving well-being
+			133 – Parapsychology & occultism
+			137 – Divinatory graphology
+			138 – Physiognomy
+			139 – Phrenology
+		140 - philosophy 
+			142 – Critical philosophy 
+			144 – Humanism & related systems 
+			147 – Pantheism & related systems
+			148 – Liberalism
+			149 – Other philosophical systems 
+		150 - psychology 
+			152 – movement and emotions
+			153 - Mental processes & intelligence
+			154 – Subconscious & altered states
+			156 – Comparative psychology 
+			158 – Applied psychology
+		160 – logic
+			161 – Induction
+			162 – Deduction 
+			165 – Fallacies
+			166 – Syllogisms
+			169 – Analogy
+	200 – Religion
+		210 - Natural theology 
+			211 - Concepts of God 
+			213 - Creation 
+			214 - Theodicy 
+			216 - Good & evil 
+			218 - Humankind
+		220 – The bible
+			221 – Old Testament
+			224 – Prophetic books 
+			227 – Epistles
+			228 – Revelation 
+			229 – pseudepigrapha
+		230 – Christian Doctrine
+			231 – God 
+			234 – Salvation
+			236 – Eschatology 
+			238 – Creeds & catechisms
+			239 – Apologetics & polemics
+		290 – Comparative as well as other religions
+			291 – Comparative 
+			292 – Classical
+			293 – Germanic
+			295 – Zoroastrianism
+			297 – Islam
+	300 – Social Science
+		310 – Stats
+			314 – General statistics of Europe
+			315 – General statistics of Asia 
+			317 – General statistics of North America
+			318 – General statistics of South America
+			319 – General statistics of other parts of the world 
+		320 – Political science
+			324 – The political process
+			325 – International migration
+			326 – Slavery
+			327 – International relations
+			328 – The legislative process
+		330 – Ecoms
+			331 – Labor economics
+			335 – Socialism
+			336 – Public finance
+			337 – International economics
+			338 – Production
+		340 – Law
+			341 – International law
+			342 – Constitutional & administrative law
+			343 – tax, trade, industrial law
+			345 – Criminal law
+			347 – Civil procedure & courts
+		350 – Public admin
+			351 – central governments
+			353 – U.S. federal & state governments
+			356 – Foot forces & warfare
+			358 – specialized forces & services
+			359 – Sea forces & warfare
+		360 – Social Welfare
+			363 – Other social problems & services
+			364 – Criminology
+			365 – Penal & related institutions
+			366 –Association
+			367 – General clubs
+		370 – Education
+			372 – Elementary education 
+			374 – Adult education
+			376 – Education of women
+			378 –Higher education
+			379 – Government support
+		380 – Public servicing
+			381 – Internal commerce
+			382 – International commerce
+			383 – Postal communication
+			384 – Communications
+			387 – space transportation 
+		390 – Customs
+			392 – Customs of life cycle
+			394 – General customs 
+			395 - Etiquette 
+			398 – Folklore
+			399 – Customs of war & diplomacy
+	400 – Language
+		410 – Linguistics
+			411 – Writing systems
+			412 – Etymology
+			414 - Phonology
+			415 – Structural systems
+			417 – historical linguistics
+		420 – English 
+			421 – English writing system 
+			423 – English dictionaries
+			425 - English grammar
+			427 – English language variations
+			429 – Old English
+		430 – German
+			431 – German writing system 
+			433 – German dictionaries
+			435 - German grammar
+			437 – German language variations
+			439 – Germanic languages 
+		440 – French
+			441 – French writing system 
+			443 – French dictionaries
+			445 - French grammar
+			447 – French language variations
+			449 – Provencal
+		450 – Italian
+			451 – Italian writing system 
+			453 – Italian dictionaries
+			455 - Italian grammar
+			457 – Italian language variations
+			459 – Romanian
+		460 – Spanish
+			461 – Spanish writing system 
+			463 – Spanish dictionaries
+			465 - Spanish grammar
+			467 – Spanish language variations
+			469 – Portuguese
+		470 – Latin
+			471 – Latin writing system 
+			473 – Latin dictionaries
+			475 - Latin grammar
+			477 – Old Latin
+			479 – Italic languages
+		480 – Greek
+			481 – Greek writing system 
+			483 – Greek dictionaries
+			485 - Greek grammar
+			487 – postclassical Greek
+			489 – Hellenic languages
+		490 – Different languages
+			491 – Celtic languages
+			493 – Afro-Asiatic languages
+			495 - Languages of East & Southeast Asia
+			497 – native languages
+			499 – Miscellaneous languages
+	500 – Science
+		510 – Maths
+			512 - Algebra & number theory 
+			513 - Arithmetic 
+			514 - Topology 
+			515 - Analysis 
+		520 – Astronomy 
+			521 - Celestial mechanics
+			522 - Techniques and equipment
+			525 - Earth 
+			526 - Mathematical geography 
+			528 - Ephemerides 
+		530 – Physics
+			531 - Classical mechanics 
+			533 - Sound & related vibrations 
+			536 - Heat 
+			537 - Electricity & electronics 
+			538 - Magnetism 
+		540 – Chemistry
+			543 - Analytical chemistries 
+			544 - Qualitative analyses 
+			545 - Quantitative analyses 
+			546 - Inorganic chemistry 
+			547 - Organic chemistry 
+		550 – World science
+			552 - Petrology 
+			554 - Earth sciences of Europe 
+			555 - Earth sciences of Asia 
+			556 - Earth sciences of Africa 
+			557 - Earth sciences of North America 
+		560 – Paleontology
+			561 - Paleobotany 
+			562 - Fossil invertebrates 
+			563 - Fossil primitive phyla 
+			567 - Fossil cold-blooded vertebrates 
+			569 - Fossil Mammalia
+		570 – Life science
+			572 Biochemistry 
+			574 Biology 
+			576 Microbiology 
+			577 General nature of life 
+			578 Microscopy in biology 
+		580 – Botanical
+			581 - Botany 
+			583 - Dicotyledones 
+			584 - Monocotyledones 
+			588 - Bryophyta 
+			589 - Thallobionta 
+		590 – Zoological
+			591 - Zoology 
+			592 - Invertebrates 
+			595 - Other invertebrates 
+			598 - Birds
+			599 - Mammals
+	600 – Technology
+		610 – Medical Tech
+			612 - Human physiology 
+			613 - Promotion of health 
+			614 - Incidence & prevention of disease 
+			617 - Surgery & related medical specialities 
+			619 - Experimental medicine
+		620 – Engineering 
+			621 - Applied physics 
+			624 - Civil engineering 
+			625 - Engineering of railroads, roads 
+			627 - Hydraulic engineering
+			628 - Sanitary & municipal engineering 
+		630 – Agriculture
+			631 - Techniques, equipment, materials
+			632 - Plant injuries, diseases, pests 
+			633 - Field & plantation crops 
+			636 - Animal husbandry 
+			638 - Insect culture 
+		640 – Domestic
+			641 - Food & drink
+			642 - Meals & table service 
+			643 - household equipment 
+			644 - Household utilities 
+			645 - Household furnishings 
+		650 – Business management 
+			651 - Office services 
+			652 - Processes of written communication 
+			653 - Shorthand 
+			657 - Accounting 
+			658 - General management 
+		660 – Chemical Tech
+			661 - Industrial chemicals technology 
+			662 - Explosives, fuels technology 
+			663 - Beverage technology 
+			664 - Food technology 
+			667 - related technologies 
+		670 – Manufacturers
+			672 - Iron, steel, other iron alloys
+			673 - Nonferrous metals 
+			675 - Leather processing 
+			677 - Textiles 
+			679 - Other products of specific materials
+		690 – Building constructing
+			691 - Building materials 
+			695 - Roof covering 
+			696 - Utilities 
+			697- Air-conditioning 
+			698 - Detail finishing 
+	700 – Arts
+		710 – Civic art
+			714 Water features 
+			715 Woody plants
+			716 Herbaceous plants 
+			717 Structures 
+			719 Natural landscapes
+		720 – Architecture
+			721 - Architectural structures 
+			725 - Public structures 
+			726 - Buildings for religious purposes 
+			727 - Buildings for education & research 
+			729 - Design & decoration
+		730 – Sculpture
+			731 - Processes, forms, subjects of sculpture 
+			732 - Sculpture to ca. 500 
+			736- Carving & carvings 
+			738 - Ceramic arts 
+			739 - Art metalwork
+		740 – Drawing
+			742 - Perspective 
+			743 - Drawing & drawings by subject
+			745 - Decorative arts 
+			746 - Textile arts
+			748 - Glass 
+		750 – Painting
+			752 - Colour 
+			754 - Genre paintings 
+			755 - Religion & religious symbolism 
+			757 - Human figures & their parts 
+			758 - Other subjects 
+		760 – Printing
+			761 - Relief processes 
+			763 - Lithographic processes
+			764 - Chromolithography & serigraphy
+			765 - Metal engraving 
+			769 - Prints 
+		770 – Photography
+			772 - Metallic salt processes 
+			773 - Pigment processes 
+			774 - Holography 
+			778 - Fields of photography 
+			779 - Photographs 
+		780 – Music
+			781 - General principles & musical forms
+			782 - Vocal music 
+			783 - Music for single voices 
+			785 -Chamber music 
+			786 - Keyboard & other instruments 
+		790 – Performance arts
+			791 - Public performances
+			792 - Stage presentations
+			793 - Indoor games & amusements 
+			794 - Indoor games of skill 
+			795 - Games of chance
+	800 – Literature
+		810 – American Lit
+			811 - Poetry 
+			812 - Drama 
+			813 - Fiction
+			814 - Essays
+			815 - Speeches 
+		820 – English Lit
+			821 - English poetry 
+			822 - English drama 
+			823 - English fiction 
+			824 - English essays 
+			825 - English speeches 
+		830 – German Lit
+			834 - Post classic & modern
+			836 - German dialect literature
+			837 - German American
+			838 - German miscellaneous writings
+			839 - Other Germanic literatures
+		840 – French Lit
+			841 - Old and early French
+			842 - Transition & renaissance periods
+			847 - French Canadian
+			848 - Provencal
+			849 - French dialect literature
+		850 – Italian Lit
+			853 - 1492-1585
+			854 - 1585-1814
+			855 - 1814-1940/50
+			856 - Italian dialects
+			857 - Sardinian
+		860 – Spanish Lit
+			861 - Spanish Poetry 
+			862 - Spanish Drama 
+			864 - Spanish Essays 
+			865 - Spanish Speeches 
+			866 - Spanish
+		870 – Latin Lit
+			871 - Latin Poetry 
+			872 - Latin Drama 
+			874 - Latin Essays 
+			875 - Latin Speeches 
+			876 - Latin Letters 
+		880 – Greek lit
+			881 - Greek Poetry 
+			882 - Greek Drama 
+			884 - Greek Essays 
+			885 - Greek Speeches 
+			886 - Greek Letters 
+		890 – Other Lit
+			891 - Other Poetry 
+			892 - Other Drama 
+			894 - Other Essays 
+			895 - Other Speeches 
+			896 - Other Letters 
+	900 – History and Geography
+		910 – Travelling
+			911 - Historical geography
+			913 - Ancient world 
+			914 - Europe 
+			915 - Asia 
+			916 - Africa 
+		930 – Ancient history
+			931 - History of ancient world China 
+			932 - History of ancient world Egypt 
+			933 - History of ancient world Palestine 
+			934 - History of ancient world India 
+			938 - History of ancient world Greece 
+		940 – Europe
+			 941 - General history of Europe British Isles 
+			 942 - General history of Europe England & Wales
+			 943 - General history of Europe Central Europe Germany
+			 944 - General history of Europe France & Monaco 
+			 946 - General history of Europe Iberian Peninsula & adjacent islands 
+		950 – Asia
+			951 - General history of Asia China & adjacent areas
+			952 - General history of Asia Japan 
+			954 - General history of Asia South Asia India 
+			955 - General history of Asia Iran 
+			959 - General history of Asia Southeast Asia
+		960 – Africa
+			961 - General history of Africa Tunisia & Libya 
+			962 - General history of Africa Egypt & Sudan
+			963 - General history of Africa Ethiopia
+			964 - General history of Africa Morocco & Canary Islands 
+			965 - General history of Africa Algeria 
+		970 – North America
+			971 - General history of North America Canada 
+			972 - General history of North America Middle America Mexico 
+			974 - General history of North America North eastern United States 
+			975 - General history of North America South eastern United States 
+			976 - General history of North America South Central United States
+		980 – South America
+			981 - General history of South America Brazil 
+			982 - General history of South America Argentina 
+			983 - General history of South America Chile
+			984 - General history of South America Bolivia 
+			985 - General history of South America Peru 
+		990 – Pacific Island
+			991 – Indonesia
+			993 – New Zealand 
+			994 – Australia
+			995 – New Guinea
